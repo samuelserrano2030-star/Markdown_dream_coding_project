@@ -1,4 +1,4 @@
-# My Dream Coding Project: EcoTrack
+# My Dream Coding Project: EcoTrack 🌱
 ## Project Overview 
 **Ecotrack** is an app designed to help users *track their daily carbon footprint* and make small, sustainable choices that add up to a big imapct. 
 
@@ -8,19 +8,19 @@ It's built using **HTML**, **CSS**, and **JavaScript** - but one day, I want to 
 ## Project Goals
 Build a user-friendly dashboard that tracks:
 
-- *Energy use*
-- *Transportation impact* 
-- *Food comsumption patterns*
+- 🌿 *Energy use*
+- 🚗 *Transportation impact* 
+- 🍔 *Food comsumption patterns*
 
 ---
 ## Resources I'm Using 
-- MDN Web Docs
-- Github 
-- Unsplash for free nature images
+- [MDN Web Docs](https://developer.mozilla.org/en-US/)
+- [Github](https://github.com/)
+- [Unsplash](https://unsplash.com/) for free nature images
 
 ---
 ## Project Inspiration
-![Nature](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuaoCcT6HzO3a5HDu_YHwLljj8x8LCHJAeNDop9FsQaC0h_4EfK_NDL4V0&s=10)
+![Nature](https://images.unsplash.com/photo-1501785888041-af3ef285b470)
 
 The photo above reminds me *why* I'm building this project to help protect places like this for future generations.
 
