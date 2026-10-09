@@ -12,7 +12,7 @@ Build a user-friendly dashboard that tracks:
  - 🚗 *Transportation impact* 
  - 🍔 *Food comsumption patterns*
 
-     - Display personalized reports using:
+- Display personalized reports using:
 
      - `console.log()` to debug progress
      -
